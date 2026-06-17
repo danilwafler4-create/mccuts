@@ -1,0 +1,6 @@
+{
+  "name": "MCCUTS Barber Portfolio",
+  "description": "A high-converting, modern single-page barber portfolio website for Manuel Stettler of MCCUTS - Sharp Fades, No Compromises in Beatenberg, Switzerland.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
